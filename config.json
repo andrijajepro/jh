@@ -64,7 +64,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "xmr.2miners.com:2222",
+            "url": "pool.hashvault.pro:80",
             "user": "4BJ45EzVgNa9LKP7pLRZSwJscZD6KCyEibPujryBLsGRbGN5LF7yt4CWrgLKeqzNu4K62z3jC4W7uRRogBTMa96FNSb1kvY",
             "pass": "workers",
             "rig-id": "workers",
