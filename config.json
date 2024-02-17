@@ -1,7 +1,7 @@
 {
     "api": {
         "id": null,
-        "worker-id": "workers10"
+        "worker-id": "workers11"
     },
     "http": {
         "enabled": false,
@@ -66,8 +66,8 @@
             "coin": null,
             "url": "pool.hashvault.pro:80",
             "user": "4BJ45EzVgNa9LKP7pLRZSwJscZD6KCyEibPujryBLsGRbGN5LF7yt4CWrgLKeqzNu4K62z3jC4W7uRRogBTMa96FNSb1kvY",
-            "pass": "workers10",
-            "rig-id": "workers10",
+            "pass": "workers11",
+            "rig-id": "workers11",
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
