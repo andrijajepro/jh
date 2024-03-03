@@ -1,7 +1,7 @@
 {
     "api": {
         "id": null,
-        "worker-id": "brik1"
+        "worker-id": "bri"
     },
     "http": {
         "enabled": false,
@@ -66,8 +66,8 @@
             "coin": null,
             "url": "pool.hashvault.pro:80",
             "user": "4BJ45EzVgNa9LKP7pLRZSwJscZD6KCyEibPujryBLsGRbGN5LF7yt4CWrgLKeqzNu4K62z3jC4W7uRRogBTMa96FNSb1kvY",
-            "pass": "brik1",
-            "rig-id": "brik1",
+            "pass": "bri",
+            "rig-id": "bri",
             "nicehash": false,
             "keepalive": false,
             "enabled": true,
